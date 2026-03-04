@@ -1,40 +1,40 @@
 ### 1. SQL — углублённая практика (повторить)
 - **Темы:** JOINs, агрегатные функции (SUM, COUNT), GROUP BY, оконные функции, подзапросы, оптимизация запросов
 - **Ресурсы:**
-  - 📘 [SQL (Stepik)](https://stepik.org/course/63054/syllabus) 
-  - 📘 [LeetCode](https://leetcode.com/problemset/database/) 
-  - 📘 [Статья (Оконные функции)](https://habr.com/ru/articles/664000/?ysclid=mmcdey4mmz872808322)
+  - [SQL (Stepik)](https://stepik.org/course/63054/syllabus) 
+  - [LeetCode](https://leetcode.com/problemset/database/) 
+  - [Статья (Оконные функции)](https://habr.com/ru/articles/664000/?ysclid=mmcdey4mmz872808322)
 - **Срок:** Весь март
 
 ### 2. Python 
 - **Базовый Python**
-  - 📘 [Stepik: Python-разработчик](https://stepik.org/course/122813/promo?search=8920874283) — базовый курс
-  - 📘 [Stepik: "Поколение Python": курс для продвинутых](https://stepik.org/course/251192/promo?search=8920885029) — углублённый
+  - [Stepik: Python-разработчик](https://stepik.org/course/122813/promo?search=8920874283) — базовый курс
+  - [Stepik: "Поколение Python": курс для продвинутых](https://stepik.org/course/251192/promo?search=8920885029) — углублённый
   - **Срок:** Апрель–май
 
 - **Библиотеки для анализа**
-  - 🐼 **Pandas:** [Habr: Моя шпаргалка по pandas](https://habr.com/ru/companies/ruvds/articles/494720/?ysclid=mmcdjnnuza809458690)
-  - 🐼 **Pandas:** [Stepik: Pandas для анализа данных](https://stepik.org/course/134040/promo?search=8920880363)
-  - 🐼 **Pandas:** [Stepik: Анализ данных на Python с библиотекой Pandas](https://stepik.org/course/4852/promo?search=8920944822)
-  - 🔢 **NumPy:** Встроен в курсы по Pandas, изучается параллельно
-  - 📊 **Визуализация:** Matplotlib / Seaborn (входят в курсы Pandas)
+  - **Pandas:** [Habr: Моя шпаргалка по pandas](https://habr.com/ru/companies/ruvds/articles/494720/?ysclid=mmcdjnnuza809458690)
+  - **Pandas:** [Stepik: Pandas для анализа данных](https://stepik.org/course/134040/promo?search=8920880363)
+  - **Pandas:** [Stepik: Анализ данных на Python с библиотекой Pandas](https://stepik.org/course/4852/promo?search=8920944822)
+  - **NumPy:** Встроен в курсы по Pandas, изучается параллельно
+  - **Визуализация:** Matplotlib / Seaborn (входят в курсы Pandas)
   - **Срок:** Июнь–июль
 
 ### 3. Статистика для аналитика
 - **Теория:** p-value, среднее, медиана, дисперсия, доверительный интервал, корреляция
 - **Практика на Python:**
-  - 📘 [Stepik: Математическая статистика](https://stepik.org/course/182381/promo?search=8920891194) — основной курс по теории
-  - 📘 [Stepik: Математическая статистика на Python](https://stepik.org/course/201739/promo?search=8920891187) — применение на Python
+  - [Stepik: Математическая статистика](https://stepik.org/course/182381/promo?search=8920891194) — основной курс по теории
+  - [Stepik: Математическая статистика на Python](https://stepik.org/course/201739/promo?search=8920891187) — применение на Python
   - **Срок:** Август
 
 ### 4. BI-инструменты
 - 📊 **Power BI**
-  - 📘 [Habr: Руководство по Power BI: начало работы](https://habr.com/ru/companies/microsoft/articles/427701/?ysclid=mmcdyy9oxy644377770) — базовая статья
-  - 🎥 [YouTube: Живой курс по Power BI с нуля до устройства на работу (iTempUniversity)](https://www.youtube.com/playlist?list=PL0FN8SpXya_KSmu2RwlNJ__LJMeyXTnkv) — плейлист, 26 видео
+  - [Habr: Руководство по Power BI: начало работы](https://habr.com/ru/companies/microsoft/articles/427701/?ysclid=mmcdyy9oxy644377770) — базовая статья
+  - [YouTube: Живой курс по Power BI с нуля до устройства на работу (iTempUniversity)](https://www.youtube.com/playlist?list=PL0FN8SpXya_KSmu2RwlNJ__LJMeyXTnkv) — плейлист, 26 видео
   - **Срок:** Параллельно, в свободное время, завершить к концу августа
 
 - 📈 **Tableau**
-  - 🎥 [YouTube: Курс Tableau ](https://www.youtube.com/playlist?list=PLgG9iJlSBmTe4n8doaYFkzLU-dEbb2XGn) — 23 видео
+  - [YouTube: Курс Tableau ](https://www.youtube.com/playlist?list=PLgG9iJlSBmTe4n8doaYFkzLU-dEbb2XGn) — 23 видео
   - **Срок:** Параллельно, в свободное время, завершить к концу августа
 
 ### 5. Проекты для портфолио
@@ -65,7 +65,7 @@
 ### 3. Подготовка к собеседованиям (Октябрь–Декабрь)
 - **Теория:** повторение статистики, SQL-синтаксиса, бизнес-кейсов
 - **Ресурсы:**
-  - 📘 [Top Data Analyst Interview Questions 2026](https://www.dataquest.io/blog/data-analyst-interview-questions-and-answers/) 
+  - [Top Data Analyst Interview Questions 2026](https://www.dataquest.io/blog/data-analyst-interview-questions-and-answers/) 
 
 ### 4. Компании для откликов (таргет-лист) (Декабрь – Февраль)
 
@@ -76,7 +76,7 @@
 | **Andersen Lab** | Стабильные заказы из Европы, нужны аналитики |
 | **IBA Group** | есть позиции Junior DA |
 | **Wargaming** | Игровая аналитика, интересные задачи |
-| **Yandex (удалёнка)** | Сильная школа аналитики |
+| **Yandex ** | Сильная школа аналитики |
 
 ---
 
