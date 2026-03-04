@@ -30,17 +30,14 @@ I've been passionate about **Data Analysis** for over a year. During this time, 
 ### 📊 Churn Analysis  
 *Python (Pandas, Seaborn) + insights*  
 Conducted an exploratory data analysis of a telecom company's dataset: cleaned the data, created visualizations, identified key churn factors, and provided business recommendations.  
-🔗 *[Link to repository](#)*
 
 ### 📈 Sales Dashboard for an Online Store  
 *Power BI / Tableau*  
-Developed an interactive dashboard showing revenue dynamics, top-selling products, and customer segmentation. Helps quickly identify weak spots in sales performance.  
-🔗 *[Link to dashboard](#)*
+Developed an interactive dashboard showing revenue dynamics, top-selling products, and customer segmentation. Helps quickly identify weak spots in sales performance.
 
 ### 📉 SQL Analysis of a Bookstore Database  
 *PostgreSQL*  
-Wrote complex queries using JOINs and window functions to find the most popular genres, average check, and customer purchasing activity by month.  
-🔗 *[Link to repository](#)*
+Wrote complex queries using JOINs and window functions to find the most popular genres, average check, and customer purchasing activity by month.
 
 ---
 
