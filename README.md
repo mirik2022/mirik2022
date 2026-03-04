@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Miroslav
 
-<!--
-**mirik2022/mirik2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst** with over a year of experience working with data.  
+🎓 2nd-year student at **BSUIR** (🇧🇾 #1 IT university in the country), majoring in *"Software Engineering for Information Technologies"*.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About me
+
+I've been passionate about **Data Analysis** for over a year. During this time, I've completed several educational and pet projects to sharpen my skills in **SQL**, **Python**, and **data visualization**. I enjoy finding patterns, cleaning data, and turning numbers into actionable insights. I'm currently looking for an internship or a **Junior Data Analyst** position to kickstart my career.
+
+🎓 **BSUIR** (the #1 IT university in the country), 2nd year student at the Faculty of Computer Systems and Networks. My university background provides me with a solid foundation in programming (**C**, **C++**, **Java**, **C#**, **Assembler**), mathematics, and algorithms — all of which help me understand data structures and analysis logic on a deeper level.
+
+🚀 Alongside my studies, I'm actively learning the modern Data Analyst stack and constantly working with datasets.
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages & Queries:** SQL (PostgreSQL, JOINs, window functions), Python (Pandas, NumPy)
+- **Visualization:** Power BI, Tableau, Matplotlib / Seaborn
+- **Analysis & Reporting:** Excel (pivot tables, VLOOKUP), Google Sheets
+- **Tools:** Git, GitHub, Jupyter Notebook
+- **Also familiar with:** C, C++, Java, C#, basics of statistics and A/B testing
+
+---
+
+## 📌 My Projects
+
+### 📊 Churn Analysis  
+*Python (Pandas, Seaborn) + insights*  
+Conducted an exploratory data analysis of a telecom company's dataset: cleaned the data, created visualizations, identified key churn factors, and provided business recommendations.  
+🔗 *[Link to repository](#)*
+
+### 📈 Sales Dashboard for an Online Store  
+*Power BI / Tableau*  
+Developed an interactive dashboard showing revenue dynamics, top-selling products, and customer segmentation. Helps quickly identify weak spots in sales performance.  
+🔗 *[Link to dashboard](#)*
+
+### 📉 SQL Analysis of a Bookstore Database  
+*PostgreSQL*  
+Wrote complex queries using JOINs and window functions to find the most popular genres, average check, and customer purchasing activity by month.  
+🔗 *[Link to repository](#)*
+
+---
+
+## 📫 Contact me
+
+- **Telegram:** [@Miruich](https://t.me/Miruich)
+- **Email:** [yk24rvfb5w@privaterelay.appleid.com](mailto:yk24rvfb5w@privaterelay.appleid.com)
+- **LinkedIn:** [linkedin.com/in/miroslav-shutko](https://www.linkedin.com/in/miroslav-shutko)
+- **GitHub:** [github.com/mirik2022](https://github.com/mirik2022)
