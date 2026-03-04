@@ -65,8 +65,7 @@
 ### 3. Подготовка к собеседованиям (Октябрь–Декабрь)
 - **Теория:** повторение статистики, SQL-синтаксиса, бизнес-кейсов
 - **Ресурсы:**
-  - 📘 [Top Data Analyst Interview Questions 2026](https://www.dataquest.io/blog/data-analyst-interview-questions-and-answers/) — 40+ вопросов с разбором
-  - 🎥 [Mock Interview: Data Analyst (YouTube)](https://www.youtube.com/watch?v=KYlF6UIBcbc)
+  - 📘 [Top Data Analyst Interview Questions 2026](https://www.dataquest.io/blog/data-analyst-interview-questions-and-answers/) 
 
 ### 4. Компании для откликов (таргет-лист) (Декабрь – Февраль)
 
