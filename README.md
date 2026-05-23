@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Miroslav
 
-🎯 **Data Analyst** with over a year of experience working with data.  
-🎓 2nd-year student at **BSUIR** (🇧🇾 #1 IT university in the country), majoring in *"Software Engineering for Information Technologies"*.
+🎯 **Data Analyst** with over a year of practical experience working with data. 
 
 ---
 
@@ -9,7 +8,13 @@
 
 I've been passionate about **Data Analysis** for over a year. I enjoy finding patterns, cleaning data, and turning numbers into actionable insights. I'm currently looking for an internship or a **Junior Data Analyst** position to kickstart my career.
 
-🎓 **BSUIR** (the #1 IT university in the country), 2nd year student at the Faculty of Computer Systems and Networks. My university background provides me with a solid foundation in programming (**C**, **C++**, **Java**, **C#**, **Assembler**), mathematics, and algorithms — all of which help me understand data structures and analysis logic on a deeper level.
+🎓**Technical background:**  
+Strong fundamentals in programming (**C**, **C++**, **Java**, **C#**, **Assembler**), mathematics, algorithms, and data structures — all of which support deep understanding of data analysis logic.
+
+I am currently pursuing a degree in **Software Engineering for Information Technologies** at BSUIR.
+
+**Continuous learning:**  
+I actively expand my Data Analyst toolkit and work with real-world datasets.
 
 🚀 Alongside my studies, I'm actively learning the modern Data Analyst stack and constantly working with datasets.
 
