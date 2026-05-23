@@ -28,6 +28,6 @@ I've been passionate about **Data Analysis** for over a year. I enjoy finding pa
 ## 📫 Contact me
 
 - **Telegram:** [@Miruich](https://t.me/Miruich)
-- **Email:** [yk24rvfb5w@privaterelay.appleid.com](mailto:yk24rvfb5w@privaterelay.appleid.com)
+- **Email:** [miro20061122@gmail.com](mailto:[miro20061122@gmail.com])
 - **LinkedIn:** [linkedin.com/in/miroslav-shutko](https://www.linkedin.com/in/miroslav-shutko)
 - **GitHub:** [github.com/mirik2022](https://github.com/mirik2022)
